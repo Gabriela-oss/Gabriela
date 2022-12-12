@@ -1,5 +1,4 @@
 # Gabriela
-&lt;p>Whatever you do, do it with passion &lt;/p>
 <h1 align="center">Hi 👋, I'm Gabriela Solis</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 
