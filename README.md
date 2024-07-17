@@ -1,12 +1,8 @@
 # Gabriela
 <h1 align="center">Hi 👋, I'm Gabriela Solis</h1>
-<h3 align="center">A passionate frontend developer from Costa Rica</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Programming and web developer.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Gabriela-oss](https://github.com/Gabriela-oss)
-
-- 📫 How to reach me **solisch.gabriela@gmail.com**
+- 🌱 I’m exploring React, Next.js and also interested in learning about Back-End development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
